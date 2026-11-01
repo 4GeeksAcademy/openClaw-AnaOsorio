@@ -1,0 +1,2 @@
+[main/sessions/main/a1378b04-813a-4a20-80b5-1e4dcf92fbea#L77] User: quiero seguir personalizandote saludo: Hola Ana
+[main/sessions/main/a1378b04-813a-4a20-80b5-1e4dcf92fbea#L88] Assistant: ¡Hola Ana! Guardé en `USER.md` que quieres que te salude así y que te hable siempre en español.
